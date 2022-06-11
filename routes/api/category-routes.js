@@ -1,6 +1,4 @@
 const router = require('express').Router();
-const res = require('express/lib/response');
-const { json } = require('express/lib/response');
 const { Category, Product } = require('../../models');
 
 // The `/api/categories` endpoint
