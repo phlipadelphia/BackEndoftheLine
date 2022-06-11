@@ -3,7 +3,7 @@ An E-Commerce Back End Project.
 
 ## About
 
-As stated above, this is an E-Commerce Back End Server that I attempted to create with supplied starter code. Much was learned and exhausted throughout this including making models with sequelize, the relationships built to to connect those models and utilizing the post, put, get, and delete routs to create, update, delete or simply view tables and columns on the local server, which I admittedly had some trouble with. The schema creates the database that said tables are put into, seed the index file to display and poulate the tables with the models. Finally, running the 3001 server port provides access to them. 
+As stated above, this is an E-Commerce Back End Server that I attempted to create with supplied starter code. Much was learned and exhausted throughout this including making models with sequelize, the relationships built to to connect those models and utilizing the post, put, get, and delete routs to create, update, delete or simply view tables and columns on the local server, which I admittedly had some trouble with. The schema creates the database that said tables are put into, seed the index file to display and poulate the tables with the models. Finally, running the 3001 server port SHOULD provide access to them. 
 
 ## My Task
 
